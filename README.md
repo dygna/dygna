@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Telkom Indonesia](https://www.linkedin.com/company/telekomunikasi-indonesia/)
-- 🌱 I’m currently learning React on [Epic React by Kent C. Dodds](https://epicreact.dev)
+- 🌱 I’m currently learning React at [Epic React by Kent C. Dodds](https://epicreact.dev)
 - 📫 How to reach me: 
   - Email: [dyvaagna@gmail.com](mailto:dyvaagna@gmail.com)
   - Linkedin: [Dyva Agna](https://www.linkedin.com/in/dyvaagna/)
