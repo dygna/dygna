@@ -1,12 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Telkom Indonesia](https://www.linkedin.com/company/telekomunikasi-indonesia/)
+- 🌱 I’m currently learning React on [Epic React by Kent C. Dodds](https://epicreact.dev)
+- 📫 How to reach me: 
+  - Email: [dyvaagna@gmail.com](mailto:dyvaagna@gmail.com)
+  - Linkedin: [Dyva Agna](https://www.linkedin.com/in/dyvaagna/)
 <!--
-**dygna/dygna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
