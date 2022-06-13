@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
   - Email: [dyvaagna@gmail.com](mailto:dyvaagna@gmail.com)
   - Linkedin: [Dyva Agna](https://www.linkedin.com/in/dyvaagna/)
+- 📜 My Resume: https://resume-dygna.vercel.app/
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
